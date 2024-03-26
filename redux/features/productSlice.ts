@@ -1,3 +1,4 @@
+import { IProduct } from "@/app/admin/dashboard/page";
 import { PayloadAction } from "./../../node_modules/@reduxjs/toolkit/dist/createAction.d";
 import { createSlice } from "@reduxjs/toolkit";
 

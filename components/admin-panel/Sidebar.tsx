@@ -67,4 +67,5 @@ export const Sidebar = () => {
   );
 };
 
+//apply changes
 export default Sidebar;

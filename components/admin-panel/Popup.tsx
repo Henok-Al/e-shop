@@ -37,9 +37,12 @@ const Popup = ({ setOpenPopup, setUpdateTable }: PropsType) => {
       });
   };
 
-  return <div>
-    <p>apply changes</p>
-  </div>;
+  return (
+    <div>
+      <p>apply changes</p>
+      
+    </div>
+  );
 };
 
 export default Popup;

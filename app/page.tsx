@@ -1,17 +1,13 @@
-import Image from "next/image";
+"use client"
+import Navbar from "@/components/front-end/Navbar";
+import { useState } from "react";
 
 export default function Home() {
+  const [showCart, setShowCart] = useState();
   return (
     <main>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
-      <h1>Helo wold</h1>
+     <Navbar setShowCart={setShowCart}/>
+     
     </main>
   );
 }

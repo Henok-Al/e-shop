@@ -4,6 +4,13 @@ export default function Home() {
   return (
     <main>
       <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
     </main>
   );
 }

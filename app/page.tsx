@@ -11,6 +11,7 @@ export default function Home() {
       <h1>Helo wold</h1>
       <h1>Helo wold</h1>
       <h1>Helo wold</h1>
+      <h1>Helo wold</h1>
     </main>
   );
 }
